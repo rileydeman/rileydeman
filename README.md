@@ -1,4 +1,12 @@
-## Hi there 👋
+# Hi there 👋
+
+## Riley de Man
+
+### About Me
+- Name => Riley de Man
+- Age => 19 (27-11-2004)
+
+#soon more information
 
 <!--
 **rileydeman/rileydeman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
