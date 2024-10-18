@@ -8,6 +8,10 @@
 
 #soon more information
 
+<hr>
+
+![Profile Views](https://komarev.com/ghpvc/?username=rileydeman&color=8000FF)
+
 <!--
 **rileydeman/rileydeman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
