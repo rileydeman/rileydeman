@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [a Defqon.1 react website](https://github.com/rileydeman/defqon1-react-website)
 
-- 🌱 I’m currently learning **React with Typescript and C**
+- 🌱 I’m currently learning **React TS and C**
 
 - 👨‍💻 All of my projects are available at [https://www.rileydeman.com/](https://www.rileydeman.com/)
 
