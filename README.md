@@ -28,5 +28,5 @@
 
 <hr>
 
-<p>&nbsp;<img align="center" width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rileydeman&layout=compact&theme=midnight-purple" alt="rileydeman" /></p>
-<p>&nbsp;<img align="center" width="80%" src="https://github-readme-stats.vercel.app/api?username=rileydeman&show_icons=true&theme=midnight-purple&locale=en" alt="rileydeman" /></p>
+<p>&nbsp;<img align="center" width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rileydeman&layout=compact&theme=midnight-purple" alt="rileydeman" /></p>
+<p>&nbsp;<img align="center" width="75%" src="https://github-readme-stats.vercel.app/api?username=rileydeman&show_icons=true&theme=midnight-purple&locale=en" alt="rileydeman" /></p>
