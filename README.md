@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rileydeman&theme=radical" alt="rileydeman" /></a> </p>
 
-- 🔭 I’m currently working on [a Defqon.1 react website](https://github.com/rileydeman/defqon1-react-website)
+- 🔭 I’m currently working on [a Defqon.1 react infographic website](https://github.com/rileydeman/defqon1-react-website)
 
 - 🌱 I’m currently learning **React TS and C**
 
