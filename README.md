@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Lessionen](https://github.com/rileydeman/lessionen-main)
 
-- 🌱 I’m currently learning **React TS and C**
+- 🌱 I’m currently learning **C**
 
 - 👨‍💻 All of my projects are available at [https://www.rileydeman.com/](https://www.rileydeman.com/)
 
