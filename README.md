@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rileydeman&theme=radical" alt="rileydeman" /></a> </p>
 
-- 🔭 I’m currently working on [lessionen](https://github.com/rileydeman/lessionen-main)
+- 🔭 I’m currently working on [Velastra](https://github.com/rileydeman/velastra-astronomy-app)
 
-- 🌱 I’m currently learning **C & Laravel**
+- 🌱 I’m currently learning **React Native & C**
 
 - 👨‍💻 All of my projects are available at [https://www.rileydeman.com/](https://www.rileydeman.com/)
 
